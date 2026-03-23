@@ -32,9 +32,8 @@ Ideia validada? Partimos para a engenharia completa: arquitetura robusta, códig
 
 ## Fundadores
 
-| ------------------ | ---------- |
 | **Gabriel Raposo** | Co-founder |
-| **Saron Lujan** | Co-founder |
+| **Saron Lujan**    | Co-founder |
 
 ---
 
